@@ -1,0 +1,20 @@
+{
+    "camxloglevel": [
+        {
+            "warning"   : "0",
+            "info"      : "0",
+            "verbose"   : "1",
+            "debug"     : ""
+        }
+                
+    ],
+    
+    "chiloglevel": [
+        {
+            "warning"   : "0",
+            "info"      : "0",
+            "verbose"   : "1",
+            "debug"     : ""
+        }
+    ]
+}

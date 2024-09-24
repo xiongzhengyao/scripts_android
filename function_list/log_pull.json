@@ -1,0 +1,20 @@
+{
+    "pull_log": [
+        {
+            "logname": "offlinelog",
+            "path"      : "/data/vendor/camera/offlinelog/"
+        },
+        {
+            "logname"  : "locallog",
+            "path"      : "/data/local/log/"
+        }
+    ],
+    
+    "pull_raw_dump": [
+        {
+            "logname"  : "mipi_dump",
+            "path"      : "/data/vendor/camera/",
+            ".end" : "*.RAWMIPI10"
+        }
+    ]
+}
